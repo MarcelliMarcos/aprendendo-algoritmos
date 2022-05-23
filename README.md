@@ -1,5 +1,5 @@
 # Aprendendo Algoritmos 
-Este repositório trás idéias de começar a estudar agoritmos.
+Este repositório trás idéias de começar a estudar algoritmos.
 
 ## Links de aula
 [Aula com Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho)<br />
